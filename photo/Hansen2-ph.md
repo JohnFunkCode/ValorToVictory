@@ -26,10 +26,10 @@ Kneeling L-R: Young, McClellan, Green, Griffin and Shoaf.
 
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](ValorToVictory/crews/Hansen2.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](crews/Hansen2.md)  
 
-[BACK TO CREW INDEX PAGE](ValorToVictory/000crews.md)  
+[BACK TO CREW INDEX PAGE](000crews.md)  
 
-[BACK TO MAIN PAGE](ValorToVictory/index.html)
+[BACK TO MAIN PAGE](index.html)
 
 

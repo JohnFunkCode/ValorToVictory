@@ -28,10 +28,10 @@ With pilot, Kiley.
 The identity of this crew would help greatly in determining the serial number of this aircraft. Can anyone help here?  
   
 
-[BACK TO THIS PLANE'S COMBAT RECORD](ValorToVictory/b24s/.md)  
+[BACK TO THIS PLANE'S COMBAT RECORD](b24s/.md)  
 
-[BACK TO B-24 INDEX PAGE](ValorToVictory/000b24s.md)  
+[BACK TO B-24 INDEX PAGE](000b24s.md)  
 
-[BACK TO MAIN PAGE](ValorToVictory/index.html)
+[BACK TO MAIN PAGE](index.html)
 
 

@@ -22,10 +22,10 @@ Kneeling (L-R): J. Bosak, A. Shaw (E), H. Masse (R), J. Baron (TG), J. Dooley, a
   
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](ValorToVictory/crews/Ames.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](crews/Ames.md)  
 
-[BACK TO CREW INDEX PAGE](ValorToVictory/000crews.md)  
+[BACK TO CREW INDEX PAGE](000crews.md)  
 
-[BACK TO MAIN PAGE](ValorToVictory/index.html)
+[BACK TO MAIN PAGE](index.html)
 
 

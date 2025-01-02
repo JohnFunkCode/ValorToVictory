@@ -24,10 +24,10 @@ Kneeling (L-R): unidentified gound crewman, Clayton Gable (E), Stan Kowalczyk (T
   
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](ValorToVictory/crews/Ralls.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](crews/Ralls.md)  
 
-[BACK TO CREW INDEX PAGE](ValorToVictory/000crews.md)  
+[BACK TO CREW INDEX PAGE](000crews.md)  
 
-[BACK TO MAIN PAGE](ValorToVictory/index.html)
+[BACK TO MAIN PAGE](index.html)
 
 

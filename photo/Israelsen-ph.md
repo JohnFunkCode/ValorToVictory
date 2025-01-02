@@ -26,10 +26,10 @@ Standing L-R: William Abraham, David Ashley, William VanBuskirk (R), Charles Bar
 Kneeling L-R: Russell Reed (N), Seamans Jones (B), Charles Kleinfel (N2), Bill Dreher (CP) and Al Israelsen (P).  
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](ValorToVictory/crews/Israelsen.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](crews/Israelsen.md)  
 
-[BACK TO CREW INDEX PAGE](ValorToVictory/000crews.md)  
+[BACK TO CREW INDEX PAGE](000crews.md)  
 
-[BACK TO MAIN PAGE](ValorToVictory/index.html)
+[BACK TO MAIN PAGE](index.html)
 
 

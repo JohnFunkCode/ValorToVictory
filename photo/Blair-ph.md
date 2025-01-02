@@ -25,10 +25,10 @@ Standing L to R: Walter Scott (E), Doug Underwood (B), Lewis Wright (CP), John B
 Kneeling: Richard Turpin (R), James A. Clemmems, Bobbie Corbin, Myron Philips.  
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](ValorToVictory/crews/Blair.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](crews/Blair.md)  
 
-[BACK TO CREW INDEX PAGE](ValorToVictory/000crews.md)  
+[BACK TO CREW INDEX PAGE](000crews.md)  
 
-[BACK TO MAIN PAGE](ValorToVictory/index.html)
+[BACK TO MAIN PAGE](index.html)
 
 

@@ -24,10 +24,10 @@ Kneeling L-R: Si Slovenske, Phillips, Bob Scheutz, Sanders and Keith SAndholm.
 
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](ValorToVictory/crews/Sheridan.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](crews/Sheridan.md)  
 
-[BACK TO CREW INDEX PAGE](ValorToVictory/000crews.md)  
+[BACK TO CREW INDEX PAGE](000crews.md)  
 
-[BACK TO MAIN PAGE](ValorToVictory/index.html)
+[BACK TO MAIN PAGE](index.html)
 
 

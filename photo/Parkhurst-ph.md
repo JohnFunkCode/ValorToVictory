@@ -25,10 +25,10 @@ Standing L-R: J. Huling, Ken Lockwood, William Ilka, C. Keist, J. Fowler and R. 
 Kneeling L-R: F. Parkhurst (P), D. Mote (CP), C. Yarbrough (N) and L. Fossum (B).  
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](ValorToVictory/crews/Parkhurst.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](crews/Parkhurst.md)  
 
-[BACK TO CREW INDEX PAGE](ValorToVictory/000crews.md)  
+[BACK TO CREW INDEX PAGE](000crews.md)  
 
-[BACK TO MAIN PAGE](ValorToVictory/index.html)
+[BACK TO MAIN PAGE](index.html)
 
 

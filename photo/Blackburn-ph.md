@@ -24,10 +24,10 @@ Names, not in order: Robert C. Pearce (B), John B. Oyster (R), Robert Huebler (T
 John Wolf (WG), John J. Denter (G), James R. Blackburn (P), and Elmer T. Lian (CP).  
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](ValorToVictory/crews/Blackburn.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](crews/Blackburn.md)  
 
-[BACK TO CREW INDEX PAGE](ValorToVictory/000crews.md)  
+[BACK TO CREW INDEX PAGE](000crews.md)  
 
-[BACK TO MAIN PAGE](ValorToVictory/index.html)
+[BACK TO MAIN PAGE](index.html)
 
 

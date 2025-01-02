@@ -25,10 +25,10 @@ Standing L-R: Rosen, Winstead, Jones, Hendricks, Gordon and Ardo.
 Kneeling L-R: Cole, DeLain and Danto.  
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](ValorToVictory/crews/DeLain.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](crews/DeLain.md)  
 
-[BACK TO CREW INDEX PAGE](ValorToVictory/000crews.md)  
+[BACK TO CREW INDEX PAGE](000crews.md)  
 
-[BACK TO MAIN PAGE](ValorToVictory/index.html)
+[BACK TO MAIN PAGE](index.html)
 
 

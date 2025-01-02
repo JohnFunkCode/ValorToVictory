@@ -25,10 +25,10 @@ Standing L-R: Jim Kenny (P), George Muellerschoen (CP), Bill Gombos (N) and Conl
 Kneeling L-R: Jim Buegler (BG), Ray Snow (WG), Roy Smith (TG), Walter Johnson (E) and Ernie Waite (R).  
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](ValorToVictory/crews/Kenny.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](crews/Kenny.md)  
 
-[BACK TO CREW INDEX PAGE](ValorToVictory/000crews.md)  
+[BACK TO CREW INDEX PAGE](000crews.md)  
 
-[BACK TO MAIN PAGE](ValorToVictory/index.html)
+[BACK TO MAIN PAGE](index.html)
 
 

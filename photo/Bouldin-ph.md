@@ -24,10 +24,10 @@ Kneeling L-R: T. J. Cristman, W. H. Reynolds, J. J. Shulman, H. L. Henson, M. R.
 
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](ValorToVictory/crews/Bouldin.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](crews/Bouldin.md)  
 
-[BACK TO CREW INDEX PAGE](ValorToVictory/000crews.md)  
+[BACK TO CREW INDEX PAGE](000crews.md)  
 
-[BACK TO MAIN PAGE](ValorToVictory/index.html)
+[BACK TO MAIN PAGE](index.html)
 
 

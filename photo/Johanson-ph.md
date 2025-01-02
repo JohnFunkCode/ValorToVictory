@@ -28,10 +28,10 @@ Kneeling L-R: Alvin Sadowsky, Leonard Adrignoca, Raymond Trotter, Bennie Copelan
 The mechanic in the background is unknown.  
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](ValorToVictory/crews/Johanson.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](crews/Johanson.md)  
 
-[BACK TO CREW INDEX PAGE](ValorToVictory/000crews.md)  
+[BACK TO CREW INDEX PAGE](000crews.md)  
 
-[BACK TO MAIN PAGE](ValorToVictory/index.html)
+[BACK TO MAIN PAGE](index.html)
 
 

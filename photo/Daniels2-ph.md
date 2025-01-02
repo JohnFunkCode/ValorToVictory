@@ -23,10 +23,10 @@ Standing (l-r): Katz, Tom Buchanan, Courtney Daniels, William Jennings and Cecil
 Kneeling (l-r): Ted Beard, Joseph Schmidt, Elmer Gergley, William Harben, and Johnny Fisher.   
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](ValorToVictory/crews/Daniels2.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](crews/Daniels2.md)  
 
-[BACK TO CREW INDEX PAGE](ValorToVictory/000crews.md)  
+[BACK TO CREW INDEX PAGE](000crews.md)  
 
-[BACK TO MAIN PAGE](ValorToVictory/index.html)
+[BACK TO MAIN PAGE](index.html)
 
 

@@ -23,10 +23,10 @@ Standing L-R: Don Gibbs, Marv Jalving, Roy Fleming, Randy Martin and Bill Ferlic
 Kneeling L-R: George Schmitt, Bob Desjardens and Jack Graham.  
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](ValorToVictory/crews/MartinR.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](crews/MartinR.md)  
 
-[BACK TO CREW INDEX PAGE](ValorToVictory/000crews.md)  
+[BACK TO CREW INDEX PAGE](000crews.md)  
 
-[BACK TO MAIN PAGE](ValorToVictory/index.html)
+[BACK TO MAIN PAGE](index.html)
 
 

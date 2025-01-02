@@ -23,671 +23,671 @@ some other crews that flew in 34BG formations)
 
  
 
-[Abrams, Mort](ValorToVictory/crews/Abrams.md) [Photo](ValorToVictory/photo/Abrams-ph.md) 
+[Abrams, Mort](crews/Abrams.md) [Photo](photo/Abrams-ph.md) 
 
-[Adams](ValorToVictory/crews/Adams.md)  
+[Adams](crews/Adams.md)  
 
-[Agegian](ValorToVictory/crews/Agegian.md)  
+[Agegian](crews/Agegian.md)  
 
-[Alexander](ValorToVictory/crews/Alexander.md)  
+[Alexander](crews/Alexander.md)  
 
-[Alleman](ValorToVictory/crews/Alleman.md)  
+[Alleman](crews/Alleman.md)  
 
-[Alling](ValorToVictory/crews/Alling.md) [Photo](ValorToVictory/photo/Alling-ph.md) 
+[Alling](crews/Alling.md) [Photo](photo/Alling-ph.md) 
 
-[Ames](ValorToVictory/crews/Ames.md) [Photo](ValorToVictory/photo/Ames-ph.md) 
+[Ames](crews/Ames.md) [Photo](photo/Ames-ph.md) 
 
-[Anderson](ValorToVictory/crews/Anderson.md)  
+[Anderson](crews/Anderson.md)  
 
-[Arand](ValorToVictory/crews/Arand.md)  
+[Arand](crews/Arand.md)  
 
-[Armstrong](ValorToVictory/crews/Armstrong.md)  
+[Armstrong](crews/Armstrong.md)  
 
-[Artruc](ValorToVictory/crews/Artruc.md)  
+[Artruc](crews/Artruc.md)  
 
-[Austin](ValorToVictory/crews/Austin.md)  
+[Austin](crews/Austin.md)  
 
-[Autry](ValorToVictory/crews/Autry.md) [Photo](ValorToVictory/photo/Autry-ph.md) 
+[Autry](crews/Autry.md) [Photo](photo/Autry-ph.md) 
 
-[Avriett](ValorToVictory/crews/Avriett.md) [Photo](ValorToVictory/photo/Avriett-ph.md) 
-
- 
-
-[Bagus](ValorToVictory/crews/Bagus.md)  
-
-[Baker, L. A.](ValorToVictory/crews/BakerLA.md)  
-
-[Baker, W. V.](ValorToVictory/crews/BakerWV.md)  
-
-[Balzer](ValorToVictory/crews/Balzer.md)  
-
-[Barbaras](ValorToVictory/crews/Barbaras.md) [Photo](ValorToVictory/photo/Barbaras-ph.md) 
-
-[Barbier](ValorToVictory/crews/Barbier.md)  
-
-[Baskin](ValorToVictory/crews/Baskin.md)  
-
-[Bass](ValorToVictory/crews/Bass.md)  
-
-[Bastion](ValorToVictory/crews/Bastion.md)  
-
-[Baugman](ValorToVictory/crews/Baugman.md)  
-
-[Beauchamp](ValorToVictory/crews/Beauchamp.md)  
-
-[Becker](ValorToVictory/crews/Becker.md)  
-
-[Benedict](ValorToVictory/crews/Benedict.md) [Photo](ValorToVictory/photo/Benedict-ph.md) 
-
-[Bennett](ValorToVictory/crews/Bennett.md)  
-
-[Bephome](ValorToVictory/crews/Bephome.md)  
-
-[Beyer](ValorToVictory/crews/Beyer.md)  
-
-[Bice](ValorToVictory/crews/Bice.md) [Photo](ValorToVictory/photo/Bice-ph.md) 
-
-[Blackburn](ValorToVictory/crews/Blackburn.md) [Photo](ValorToVictory/photo/Blackburn-ph.md) 
-
-[Blair](ValorToVictory/crews/Blair.md) [Photo](ValorToVictory/photo/Blair-ph.md)
-
-[Blomquist](ValorToVictory/crews/Blomquist.md)  
-
-[Blum](ValorToVictory/crews/Blum.md) [Photo](ValorToVictory/photo/Blum-ph.md) 
-
-[Bolser](ValorToVictory/crews/Bolser.md)  
-
-[Boshears](ValorToVictory/crews/Boshears.md)  
-
-[Bouldin](ValorToVictory/crews/Bouldin.md) [Photo](ValorToVictory/photo/Bouldin-ph.md) 
-
-[Bowen](ValorToVictory/crews/Bowen.md) [Photo](ValorToVictory/photo/Bowen-ph.md) 
-
-[Bower](ValorToVictory/crews/Bower.md) [Photo](ValorToVictory/photo/Bower-ph.md) 
-
-[Brady](ValorToVictory/crews/Brady.md)  
-
-[Brain](ValorToVictory/crews/Brain.md)  
-
-[Brown](ValorToVictory/crews/Brown.md)  
-
-[Bruck](ValorToVictory/crews/Bruck.md)  
-
-[Buchanan](ValorToVictory/crews/Buchanan.md)  
-
-[Buckholz](ValorToVictory/crews/Buckholz.md)  
-
-[Burton](ValorToVictory/crews/Burton.md)  
-
-[Bush](ValorToVictory/crews/Bush.md) [Photo](ValorToVictory/photo/Bush-ph.md) 
-
-[Butler](ValorToVictory/crews/Butler.md)  
-
-[Butts](ValorToVictory/crews/Butts.md)  
+[Avriett](crews/Avriett.md) [Photo](photo/Avriett-ph.md) 
 
  
 
-[Carmen](ValorToVictory/crews/Carmen.md)  
+[Bagus](crews/Bagus.md)  
 
-[Carter](ValorToVictory/crews/Carter.md)  
+[Baker, L. A.](crews/BakerLA.md)  
 
-[Chapman](ValorToVictory/crews/Chapman.md)  
+[Baker, W. V.](crews/BakerWV.md)  
 
-[Clarke](ValorToVictory/crews/Clarke.md)  
+[Balzer](crews/Balzer.md)  
 
-[Cliff](ValorToVictory/crews/Cliff.md)  
+[Barbaras](crews/Barbaras.md) [Photo](photo/Barbaras-ph.md) 
 
-[Colburn](ValorToVictory/crews/Colburn.md)  
+[Barbier](crews/Barbier.md)  
 
-[Conrad](ValorToVictory/crews/Conrad.md)  
+[Baskin](crews/Baskin.md)  
 
-[Cook](ValorToVictory/crews/Cook.md)  
+[Bass](crews/Bass.md)  
 
-[Coupland, T. D.](ValorToVictory/crews/Coupland.md) [Photo](ValorToVictory/photo/Coupland-ph.md) 
+[Bastion](crews/Bastion.md)  
 
-[Couse](ValorToVictory/crews/Couse.md) [Photo](ValorToVictory/photo/Couse-ph.md) 
+[Baugman](crews/Baugman.md)  
 
-[Crabtree](ValorToVictory/crews/Crabtree.md)  
+[Beauchamp](crews/Beauchamp.md)  
 
-[Croft](ValorToVictory/crews/Croft.md)  
+[Becker](crews/Becker.md)  
 
-[Culver](ValorToVictory/crews/Culver.md)  
+[Benedict](crews/Benedict.md) [Photo](photo/Benedict-ph.md) 
 
-[Curtiss](ValorToVictory/crews/Curtiss.md) [Photo](ValorToVictory/photo/Curtiss-ph.md) 
+[Bennett](crews/Bennett.md)  
 
- 
+[Bephome](crews/Bephome.md)  
 
-[Daniels, Charles S.](ValorToVictory/crews/Daniels1.md)   
+[Beyer](crews/Beyer.md)  
 
-[Daniels, Courtney](ValorToVictory/crews/Daniels2.md) [Photo](ValorToVictory/photo/Daniels2-ph.md) 
+[Bice](crews/Bice.md) [Photo](photo/Bice-ph.md) 
 
-[Davis](ValorToVictory/crews/Davis.md)   
+[Blackburn](crews/Blackburn.md) [Photo](photo/Blackburn-ph.md) 
 
-[Day](ValorToVictory/crews/Day.md)   
+[Blair](crews/Blair.md) [Photo](photo/Blair-ph.md)
 
-[Dean](ValorToVictory/crews/Dean.md)  
+[Blomquist](crews/Blomquist.md)  
 
-[Dees](ValorToVictory/crews/Dees.md) [Photo](ValorToVictory/photo/Dees-ph.md) 
+[Blum](crews/Blum.md) [Photo](photo/Blum-ph.md) 
 
-[DeLain](ValorToVictory/crews/DeLain.md) [Photo](ValorToVictory/photo/DeLain-ph.md) 
+[Bolser](crews/Bolser.md)  
 
-[Dematio](ValorToVictory/crews/Dematio.md)  
+[Boshears](crews/Boshears.md)  
 
-[Dixon](ValorToVictory/crews/Dixon.md)  
+[Bouldin](crews/Bouldin.md) [Photo](photo/Bouldin-ph.md) 
 
-[Doell](ValorToVictory/crews/Doell.md) [Photo](ValorToVictory/photo/Doell-ph.md) 
+[Bowen](crews/Bowen.md) [Photo](photo/Bowen-ph.md) 
 
-[Dold](ValorToVictory/crews/Dold.md) [Photo](ValorToVictory/photo/Dold-ph.md) 
+[Bower](crews/Bower.md) [Photo](photo/Bower-ph.md) 
 
-[Dreher](ValorToVictory/crews/Dreher.md)  
+[Brady](crews/Brady.md)  
 
-[Dunham](ValorToVictory/crews/Dunham.md)  
+[Brain](crews/Brain.md)  
 
-[Durrett, Stanley E.](ValorToVictory/crews/Durrett.md)  
+[Brown](crews/Brown.md)  
 
-[Dwyer](ValorToVictory/crews/Dwyer.md)  
+[Bruck](crews/Bruck.md)  
 
- 
+[Buchanan](crews/Buchanan.md)  
 
-[Eastman](ValorToVictory/crews/Eastman.md)  
+[Buckholz](crews/Buckholz.md)  
 
-[Edwards](ValorToVictory/crews/Edwards.md)  
+[Burton](crews/Burton.md)  
 
-[Eggleston](ValorToVictory/crews/Eggleston.md) [Photo](ValorToVictory/photo/Eggleston-ph.md) 
+[Bush](crews/Bush.md) [Photo](photo/Bush-ph.md) 
 
-[Erwin](ValorToVictory/crews/Erwin.md)  [Photo](ValorToVictory/photo/Erwin-ph.md) 
+[Butler](crews/Butler.md)  
 
-[Ettlebrick](ValorToVictory/crews/Ettlebrick.md)  
-
-[Evans](ValorToVictory/crews/Evans.md)  
+[Butts](crews/Butts.md)  
 
  
 
-[Feldman, M. S.](ValorToVictory/crews/FeldmanMS.md)  
+[Carmen](crews/Carmen.md)  
 
-[Feldman, S.](ValorToVictory/crews/FeldmanS.md)  
+[Carter](crews/Carter.md)  
 
-[Felker](ValorToVictory/crews/Felker.md)  
+[Chapman](crews/Chapman.md)  
 
-[Ferard](ValorToVictory/crews/Ferard.md)  
+[Clarke](crews/Clarke.md)  
 
-[Fiedler](ValorToVictory/crews/Fiedler.md)  
+[Cliff](crews/Cliff.md)  
 
-[Finch](ValorToVictory/crews/Finch.md)  
+[Colburn](crews/Colburn.md)  
 
-[Fisher](ValorToVictory/crews/Fisher.md)  
+[Conrad](crews/Conrad.md)  
 
-[Foster](ValorToVictory/crews/Foster.md)  
+[Cook](crews/Cook.md)  
 
-[Fox](ValorToVictory/crews/Fox.md)  
+[Coupland, T. D.](crews/Coupland.md) [Photo](photo/Coupland-ph.md) 
 
-[Friedel](ValorToVictory/crews/Friedel.md)  
+[Couse](crews/Couse.md) [Photo](photo/Couse-ph.md) 
 
- 
+[Crabtree](crews/Crabtree.md)  
 
-[Gallagher](ValorToVictory/crews/Gallagher.md) [Photo](ValorToVictory/photo/Gallagher-ph.md) 
+[Croft](crews/Croft.md)  
 
-[Gardner, H. T.](ValorToVictory/crews/GardnerHT.md)   
+[Culver](crews/Culver.md)  
 
-[Gardner, M. L.](ValorToVictory/crews/GardnerML.md) [Photo](ValorToVictory/photo/GardnerM-ph.md) 
-
-[Gast](ValorToVictory/crews/Gast.md)  
-
-[Giardini](ValorToVictory/crews/Giardini.md)  
-
-[Gibson](ValorToVictory/crews/Gibson.md)  
-
-[Gillis](ValorToVictory/crews/Gillis.md)  
-
-[Gipson](ValorToVictory/crews/Gipson.md)  
-
-[Glass](ValorToVictory/crews/Glass.md) [Photo](ValorToVictory/photo/Glass-ph.md) 
-
-[Glaze](ValorToVictory/crews/Glaze.md)  
-
-[Goetz](ValorToVictory/crews/Goetz.md)  
-
-[Golding](ValorToVictory/crews/Golding.md)  
-
-[Goss](ValorToVictory/crews/Goss.md)  
-
-[Granger](ValorToVictory/crews/Granger.md)  
-
-[Gray](ValorToVictory/crews/Gray.md)  
-
-[Gregory](ValorToVictory/crews/Gregory.md)  
-
-[Griffis](ValorToVictory/crews/Griffis.md)  
-
-[Grisham](ValorToVictory/crews/Grisham.md) [Photo](ValorToVictory/photo/Grisham-ph.md) 
-
-[Gulmetti](ValorToVictory/crews/Gulmetti.md)  
-
-[Gustofson](ValorToVictory/crews/Gustofson.md)  
+[Curtiss](crews/Curtiss.md) [Photo](photo/Curtiss-ph.md) 
 
  
 
-[Hack](ValorToVictory/crews/Hack.md)  
+[Daniels, Charles S.](crews/Daniels1.md)   
 
-[Halbert](ValorToVictory/crews/Halbert.md) [Photo](ValorToVictory/photo/Halbert-ph.md) 
+[Daniels, Courtney](crews/Daniels2.md) [Photo](photo/Daniels2-ph.md) 
 
-[Hall](ValorToVictory/crews/Hall.md)  
+[Davis](crews/Davis.md)   
 
-[Hamilton](ValorToVictory/crews/Hamilton.md)  
+[Day](crews/Day.md)   
 
-[Hammersley](ValorToVictory/crews/Hammersley.md)  
+[Dean](crews/Dean.md)  
 
-[Hanchar](ValorToVictory/crews/Hanchar.md)  
+[Dees](crews/Dees.md) [Photo](photo/Dees-ph.md) 
 
-[Hanlon](ValorToVictory/crews/Hanlon.md)  
+[DeLain](crews/DeLain.md) [Photo](photo/DeLain-ph.md) 
 
-[Hann](ValorToVictory/crews/Hann.md)  
+[Dematio](crews/Dematio.md)  
 
-[Hansen #2](ValorToVictory/crews/Hansen2.md)  
+[Dixon](crews/Dixon.md)  
 
-[Hansen, A. M.](ValorToVictory/crews/HansenAM.md) [Photo](ValorToVictory/photo/HansenAM-ph.md) 
+[Doell](crews/Doell.md) [Photo](photo/Doell-ph.md) 
 
-[Hansen, D. F.](ValorToVictory/crews/HansenDF.md)  
+[Dold](crews/Dold.md) [Photo](photo/Dold-ph.md) 
 
-[Hanson, O. T.](ValorToVictory/crews/HansonOT.md)  
+[Dreher](crews/Dreher.md)  
 
-[Hardesty](ValorToVictory/crews/Hardesty.md)  
+[Dunham](crews/Dunham.md)  
 
-[Hardison](ValorToVictory/crews/Hardison.md) [Photo](ValorToVictory/photo/Hardison-ph.md) 
+[Durrett, Stanley E.](crews/Durrett.md)  
 
-[Harmon](ValorToVictory/crews/Harmon.md) [Photo](ValorToVictory/photo/Harmon-ph.md) 
-
-[Harre](ValorToVictory/crews/Harre.md)  
-
-[Harris, C. W.](ValorToVictory/crews/HarrisCW.md) [Photo](ValorToVictory/photo/HarrisCW-ph.md) 
-
-[Harris, R. N.](ValorToVictory/crews/HarrisRN.md)  
-
-[Hart](ValorToVictory/crews/Hart.md)  
-
-[Hartley](ValorToVictory/crews/Hartley.md)  
-
-[Hatley](ValorToVictory/crews/Hatley.md)  
-
-[Havener](ValorToVictory/crews/Havener.md)  
-
-[Hayes](ValorToVictory/crews/Hayes.md)  
-
-[Heath](ValorToVictory/crews/Heath.md)  
-
-[Heiby](ValorToVictory/crews/Heiby.md)  
-
-[Hemingway](ValorToVictory/crews/Hemingway.md)  
-
-[Henderson](ValorToVictory/crews/Henderson.md)  
-
-[Hershenow](ValorToVictory/crews/Hershenow.md)  
-
-[Hicks](ValorToVictory/crews/Hicks.md) [Photo](ValorToVictory/photo/Hicks-ph.md) 
-
-[Hill](ValorToVictory/crews/Hill.md)  
-
-[Hinkel](ValorToVictory/crews/Hinkel.md)  
-
-[Hofmann](ValorToVictory/crews/Hofmann.md)  
-
-[Hollowell](ValorToVictory/crews/Hollowell.md)  [Photo](ValorToVictory/photo/Hollowell-ph.md) 
-
-[Holmes](ValorToVictory/crews/Holmes.md) [Photo](ValorToVictory/photo/Holmes-ph.md) 
-
-[Howard](ValorToVictory/crews/Howard.md)  
-
-[Howell](ValorToVictory/crews/Howell.md)  
-
-[Hunt](ValorToVictory/crews/Hunt.md)  
+[Dwyer](crews/Dwyer.md)  
 
  
 
-[Isaacs](ValorToVictory/crews/Isaacs.md) [Photo](ValorToVictory/photo/Isaacs-ph.md) 
+[Eastman](crews/Eastman.md)  
 
-[Isley](ValorToVictory/crews/Isley.md)  
+[Edwards](crews/Edwards.md)  
 
-[Israelsen](ValorToVictory/crews/Israelsen.md) [Photo](ValorToVictory/photo/Israelsen-ph.md) 
+[Eggleston](crews/Eggleston.md) [Photo](photo/Eggleston-ph.md) 
 
-[Iverson](ValorToVictory/crews/Iverson.md) [Photo](ValorToVictory/photo/Iverson-ph.md) 
+[Erwin](crews/Erwin.md)  [Photo](photo/Erwin-ph.md) 
 
- 
+[Ettlebrick](crews/Ettlebrick.md)  
 
-[James](ValorToVictory/crews/James.md) [Photo](ValorToVictory/photo/James-ph.md) 
-
-[Johanson](ValorToVictory/crews/Johanson.md) [Photo](ValorToVictory/photo/Johanson-ph.md) 
-
-[Johnson, R. D.](ValorToVictory/crews/JohnsonRD.md)  
-
-[Jones, J. L.](ValorToVictory/crews/JonesJL.md) [Photo](ValorToVictory/photo/JonesJL-ph.md) 
-
-[Jones, Wyatt](ValorToVictory/crews/JonesWS.md) [Photo](ValorToVictory/photo/JonesWS-ph.md) 
+[Evans](crews/Evans.md)  
 
  
 
-[Kelly](ValorToVictory/crews/Kelly.md)  
+[Feldman, M. S.](crews/FeldmanMS.md)  
 
-[Kennedy](ValorToVictory/crews/Kennedy.md)  
+[Feldman, S.](crews/FeldmanS.md)  
 
-[Kenny](ValorToVictory/crews/Kenny.md) [Photo](ValorToVictory/photo/Kenny-ph.md) 
+[Felker](crews/Felker.md)  
 
-[Kermode](ValorToVictory/crews/Kermode.md)  
+[Ferard](crews/Ferard.md)  
 
-[Kiley](ValorToVictory/crews/Kiley.md) [Photo](ValorToVictory/photo/Kiley-ph.md) 
+[Fiedler](crews/Fiedler.md)  
 
-[Kimmerle](ValorToVictory/crews/Kimmerle.md)  
+[Finch](crews/Finch.md)  
 
-[Kirklin](ValorToVictory/crews/Kirklin.md)  
+[Fisher](crews/Fisher.md)  
 
-[Knowlton](ValorToVictory/crews/Knowlton.md)  
+[Foster](crews/Foster.md)  
 
-[Kramschuster](ValorToVictory/crews/Kramschuster.md)  
+[Fox](crews/Fox.md)  
 
-[Kyser](ValorToVictory/crews/Kyser.md)  
-
- 
-
-[Landry](ValorToVictory/crews/Landry.md)  
-
-[Lankford](ValorToVictory/crews/Lankford.md)  
-
-[Laskin](ValorToVictory/crews/Laskin.md)  
-
-[Latz](ValorToVictory/crews/Latz.md)  
-
-[LeBailly](ValorToVictory/crews/LeBailly.md)  
-
-[Lerch](ValorToVictory/crews/Lerch.md)  
-
-[Lewis, W.](ValorToVictory/crews/LewisW.md) [Photo](ValorToVictory/photo/LewisW-ph.md) 
-
-[Lewis #2](ValorToVictory/crews/Lewis2.md)  
-
-[Lindstrom](ValorToVictory/crews/Lindstrom.md) [Photo](ValorToVictory/photo/Lindstrom-ph.md) 
-
-[Little](ValorToVictory/crews/Little.md)  
-
-[Livingston](ValorToVictory/crews/Livingston.md)  
-
-[Lundeen](ValorToVictory/crews/Lundeen.md) [Photo](ValorToVictory/photo/Lundeen-ph.md)  
+[Friedel](crews/Friedel.md)  
 
  
 
-[Mackey](ValorToVictory/crews/Mackey.md) [Photo](ValorToVictory/photo/Mackey-ph.md) 
+[Gallagher](crews/Gallagher.md) [Photo](photo/Gallagher-ph.md) 
 
-[MacTaggart](ValorToVictory/crews/MacTaggart.md)  
+[Gardner, H. T.](crews/GardnerHT.md)   
 
-[Manlove](ValorToVictory/crews/Manlove.md)  
+[Gardner, M. L.](crews/GardnerML.md) [Photo](photo/GardnerM-ph.md) 
 
-[Mann](ValorToVictory/crews/Mann.md)  
+[Gast](crews/Gast.md)  
 
-[Marks](ValorToVictory/crews/Marks.md)  
+[Giardini](crews/Giardini.md)  
 
-[Marsden](ValorToVictory/crews/Marsden.md)  
+[Gibson](crews/Gibson.md)  
 
-[Martin, R.](ValorToVictory/crews/MartinR.md) [Photo](ValorToVictory/photo/MartinR-ph.md) 
+[Gillis](crews/Gillis.md)  
 
-[Martin, S.](ValorToVictory/crews/MartinS.md) [Photo](ValorToVictory/photo/MartinS-ph.md) 
+[Gipson](crews/Gipson.md)  
 
-[Mason](ValorToVictory/crews/Mason.md)  
+[Glass](crews/Glass.md) [Photo](photo/Glass-ph.md) 
 
-[Mawer](ValorToVictory/crews/Mawer.md)  
+[Glaze](crews/Glaze.md)  
 
-[McAllister](ValorToVictory/crews/McAllister.md)  
+[Goetz](crews/Goetz.md)  
 
-[McCage](ValorToVictory/crews/McCage.md)  
+[Golding](crews/Golding.md)  
 
- [McCutchan, Don](ValorToVictory/crews/McCutchanDon.md) [Photo](ValorToVictory/photo/McCutchanDon-ph.md) 
+[Goss](crews/Goss.md)  
 
-[McCutchan, Hugh](ValorToVictory/crews/McCutchanHugh.md)  [Photo](ValorToVictory/photo/McCutchanHugh-ph.md) 
+[Granger](crews/Granger.md)  
 
-[McDannold](ValorToVictory/crews/McDannold.md)  
+[Gray](crews/Gray.md)  
 
-[McDermott](ValorToVictory/crews/McDermott.md)  
+[Gregory](crews/Gregory.md)  
 
-[McFarland](ValorToVictory/crews/McFarland.md)  
+[Griffis](crews/Griffis.md)  
 
-[McGee](ValorToVictory/crews/McGee.md)  
+[Grisham](crews/Grisham.md) [Photo](photo/Grisham-ph.md) 
 
-[McLean](ValorToVictory/crews/McLean.md) [Photo](ValorToVictory/photo/McLean-ph.md) 
+[Gulmetti](crews/Gulmetti.md)  
 
-[McNulty](ValorToVictory/crews/McNulty.md)  
-
-[McWilliams](ValorToVictory/crews/McWilliams.md)  
-
-[Mehling](ValorToVictory/crews/Mehling.md)  
-
-[Meyer](ValorToVictory/crews/Meyer.md)  
-
-[Moore](ValorToVictory/crews/Moore.md)  
-
-[Mote](ValorToVictory/crews/Mote.md)  
-
-[Mowers](ValorToVictory/crews/Mowers.md)  
-
-[Mueller, J. P.](ValorToVictory/crews/MuellerJP.md)  
-
-[Mueller, P. F.](ValorToVictory/crews/MuellerPF.md)  
-
-[Mullin](ValorToVictory/crews/Mullin.md)  
-
-[Murphy](ValorToVictory/crews/Murphy.md)  
-
-[Myers](ValorToVictory/crews/Myers.md)  
+[Gustofson](crews/Gustofson.md)  
 
  
 
-[Nash](ValorToVictory/crews/Nash.md)  
+[Hack](crews/Hack.md)  
 
-[Nass](ValorToVictory/crews/Nass.md)  
+[Halbert](crews/Halbert.md) [Photo](photo/Halbert-ph.md) 
 
-[Netzler](ValorToVictory/crews/Netzler.md)  
+[Hall](crews/Hall.md)  
 
-[Nigg](ValorToVictory/crews/Nigg.md)  
+[Hamilton](crews/Hamilton.md)  
 
-[Notman](ValorToVictory/crews/Notman.md) [Photos](ValorToVictory/photo/Notman-ph.md) 
+[Hammersley](crews/Hammersley.md)  
 
-[Novicki](ValorToVictory/crews/Novicki.md)  
+[Hanchar](crews/Hanchar.md)  
 
- 
+[Hanlon](crews/Hanlon.md)  
 
-[Oakley](ValorToVictory/crews/Oakley.md)  
+[Hann](crews/Hann.md)  
 
-[O'Grady](ValorToVictory/crews/OGrady.md) [Photo](ValorToVictory/photo/OGrady-ph.md)  
+[Hansen #2](crews/Hansen2.md)  
 
- 
+[Hansen, A. M.](crews/HansenAM.md) [Photo](photo/HansenAM-ph.md) 
 
-[Palmer](ValorToVictory/crews/Palmer.md) [Photo](ValorToVictory/photo/Palmer-ph.md) 
+[Hansen, D. F.](crews/HansenDF.md)  
 
-[Parkhurst](ValorToVictory/crews/Parkhurst.md) [Photo](ValorToVictory/photo/Parkhurst-ph.md) 
+[Hanson, O. T.](crews/HansonOT.md)  
 
-[Parrish](ValorToVictory/crews/Parrish.md)  
+[Hardesty](crews/Hardesty.md)  
 
-[Parsons](ValorToVictory/crews/Parsons.md)  
+[Hardison](crews/Hardison.md) [Photo](photo/Hardison-ph.md) 
 
-[Paulnock](ValorToVictory/crews/Paulnock.md)  [Photo](ValorToVictory/photo/Paulnock-ph.md)  
+[Harmon](crews/Harmon.md) [Photo](photo/Harmon-ph.md) 
 
-[Pavlicek](ValorToVictory/crews/Pavlicek.md) [Photo](ValorToVictory/photo/Pavlicek-ph.md) 
+[Harre](crews/Harre.md)  
 
-[Pedigo](ValorToVictory/crews/Pedigo.md) [Photo](ValorToVictory/photo/Pedigo-ph.md) 
+[Harris, C. W.](crews/HarrisCW.md) [Photo](photo/HarrisCW-ph.md) 
 
-[Peede](ValorToVictory/crews/Peede.md)  
+[Harris, R. N.](crews/HarrisRN.md)  
 
-[Pelszynski](ValorToVictory/crews/Pelszynski.md)  
+[Hart](crews/Hart.md)  
 
-[Perry](ValorToVictory/crews/Perry.md) [Photos](ValorToVictory/photo/Perry-ph.md) 
+[Hartley](crews/Hartley.md)  
 
-[Peterson](ValorToVictory/crews/Peterson.md) [Photo](ValorToVictory/photo/Peterson-ph.md) 
+[Hatley](crews/Hatley.md)  
 
-[Pierre](ValorToVictory/crews/Pierre.md)  
+[Havener](crews/Havener.md)  
 
- 
+[Hayes](crews/Hayes.md)  
 
-[Rainey](ValorToVictory/crews/Rainey.md)  
+[Heath](crews/Heath.md)  
 
-[Ralls](ValorToVictory/crews/Ralls.md) [Photo](ValorToVictory/photo/Ralls-ph.md) 
+[Heiby](crews/Heiby.md)  
 
-[Ratcliff](ValorToVictory/crews/Ratcliff.md)  
+[Hemingway](crews/Hemingway.md)  
 
-[Raver](ValorToVictory/crews/Raver.md)  
+[Henderson](crews/Henderson.md)  
 
-[Rawson](ValorToVictory/crews/Rawson.md)  
+[Hershenow](crews/Hershenow.md)  
 
-[Ray](ValorToVictory/crews/Ray.md)  [Photo](ValorToVictory/photo/Ray-ph.md)  
+[Hicks](crews/Hicks.md) [Photo](photo/Hicks-ph.md) 
 
-[Raymond](ValorToVictory/crews/Raymond.md) [Photo](ValorToVictory/photo/Raymond-ph.md) 
+[Hill](crews/Hill.md)  
 
-[Reid](ValorToVictory/crews/Reid.md)  
+[Hinkel](crews/Hinkel.md)  
 
-[Richardsen](ValorToVictory/crews/Richardsen.md)  
+[Hofmann](crews/Hofmann.md)  
 
-[Richardson, L. S.](ValorToVictory/crews/RichardsonLS.md)  
+[Hollowell](crews/Hollowell.md)  [Photo](photo/Hollowell-ph.md) 
 
-[Richardson, Z. C.](ValorToVictory/crews/RichardsonZC.md)  
+[Holmes](crews/Holmes.md) [Photo](photo/Holmes-ph.md) 
 
-[Richart](ValorToVictory/crews/Richart.md)  
+[Howard](crews/Howard.md)  
 
-[Rider](ValorToVictory/crews/Rider.md)  
+[Howell](crews/Howell.md)  
 
-[Roscher](ValorToVictory/crews/Roscher.md)  
-
-[Runyan](ValorToVictory/crews/Runyan.md) [Photo](ValorToVictory/photo/Runyan-ph.md) 
+[Hunt](crews/Hunt.md)  
 
  
 
-[Sain](ValorToVictory/crews/Sain.md)  
+[Isaacs](crews/Isaacs.md) [Photo](photo/Isaacs-ph.md) 
 
-[Salveson](ValorToVictory/crews/Salveson.md)  
+[Isley](crews/Isley.md)  
 
-[Scharmen](ValorToVictory/crews/Scharmen.md)  
+[Israelsen](crews/Israelsen.md) [Photo](photo/Israelsen-ph.md) 
 
-[Schaus](ValorToVictory/crews/Schaus.md) [Photo](ValorToVictory/photo/Schaus-ph.md) 
-
-[Schell](ValorToVictory/crews/Schell.md) [Photo](ValorToVictory/photo/Schell-ph.md) 
-
-[Scherkenbach](ValorToVictory/crews/Scherkenbach.md) [Photo](ValorToVictory/photo/Scherkenbach-ph.md) 
-
-[Schifferer](ValorToVictory/crews/Schifferer.md)  
-
-[Scholttlekord](ValorToVictory/crews/Scholttlekord.md)  
-
-[Schroeder](ValorToVictory/crews/Schroeder.md) [Photo](ValorToVictory/photo/Schroeder-ph.md) 
-
-[Schwartz #1](ValorToVictory/crews/Schwartz1.md)  
-
-[Schwartz, R. H.](ValorToVictory/crews/SchwartzRH.md) [Photo](ValorToVictory/photo/SchwartzRH-ph.md) 
-
-[Sharp](ValorToVictory/crews/Sharp.md)  
-
-[Sheesley](ValorToVictory/crews/Sheesley.md)  
-
-[Sheridan](ValorToVictory/crews/Sheridan.md) [Photo](ValorToVictory/photo/Sheridan-ph.md) 
-
-[Sherman](ValorToVictory/crews/Sherman.md) [Photo](ValorToVictory/photo/Sherman-ph.md) 
-
-[Simpson](ValorToVictory/crews/Simpson.md) [Photo](ValorToVictory/photo/Simpson-ph.md) 
-
-[Simson](ValorToVictory/crews/Simson.md)  
-
-[Smith #1](ValorToVictory/crews/Smith1.md)  
-
-[Smith, G.](ValorToVictory/crews/SmithG.md)  
-
-[Smith, J. C.](ValorToVictory/crews/SmithJC.md)  [Photo](ValorToVictory/photo/SmithJC-ph.md) 
-
-[Smith, O. E.](ValorToVictory/crews/SmithOE.md)  
-
-[Spiegal](ValorToVictory/crews/Spiegal.md)  
-
-[Springer](ValorToVictory/crews/Springer.md)  
-
-[Sproul](ValorToVictory/crews/Sproul.md) [Photo](ValorToVictory/photo/Sproul-ph.md) 
-
-[Steffen](ValorToVictory/crews/Steffen.md)  
-
-[Stemen](ValorToVictory/crews/Stemen.md) [Photo](ValorToVictory/photo/Stemen-ph.md) 
-
-[Stewart #1](ValorToVictory/crews/Stewart1.md)  
-
-[Stewart #2](ValorToVictory/crews/Stewart2.md)  
-
-[Stuermann](ValorToVictory/crews/Stuermann.md)  
-
-[Swenson](ValorToVictory/crews/Swenson.md) [Photo](ValorToVictory/photo/Swenson-ph.md) 
-
-[Sykes](ValorToVictory/crews/Sykes.md)  
+[Iverson](crews/Iverson.md) [Photo](photo/Iverson-ph.md) 
 
  
 
-[Talbott](ValorToVictory/crews/Talbott.md)  [Photo](ValorToVictory/photo/Talbott-ph.md)  
+[James](crews/James.md) [Photo](photo/James-ph.md) 
 
-[Tavasti](ValorToVictory/crews/Tavasti.md)  
+[Johanson](crews/Johanson.md) [Photo](photo/Johanson-ph.md) 
 
-[Tennent](ValorToVictory/crews/Tennent.md)  
+[Johnson, R. D.](crews/JohnsonRD.md)  
 
-[Terry](ValorToVictory/crews/Terry.md)  
+[Jones, J. L.](crews/JonesJL.md) [Photo](photo/JonesJL-ph.md) 
 
-[Thaete](ValorToVictory/crews/Thaete.md) [Photo](ValorToVictory/photo/Thaete-ph.md) 
-
-[Thompson](ValorToVictory/crews/Thompson.md)  
-
-[Thonander](ValorToVictory/crews/Thonander.md)  
-
-[Thrun](ValorToVictory/crews/Thrun.md)  
-
-[Tigges](ValorToVictory/crews/Tigges.md)  
-
-[Timblin](ValorToVictory/crews/Timblin.md) [Photo](ValorToVictory/photo/Timblin-ph.md) 
-
-[Tuttle](ValorToVictory/crews/Tuttle.md) [Photo](ValorToVictory/photo/Tuttle-ph.md) 
-
-[Tyson](ValorToVictory/crews/Tyson.md) [Photo](ValorToVictory/photo/Tyson-ph.md) 
+[Jones, Wyatt](crews/JonesWS.md) [Photo](photo/JonesWS-ph.md) 
 
  
 
-[Vande Guchte](ValorToVictory/crews/VandeGuchte.md)  
+[Kelly](crews/Kelly.md)  
 
-[Vick](ValorToVictory/crews/Vick.md)  
+[Kennedy](crews/Kennedy.md)  
 
- 
+[Kenny](crews/Kenny.md) [Photo](photo/Kenny-ph.md) 
 
-[Waarvick](ValorToVictory/crews/Waarvick.md)  
+[Kermode](crews/Kermode.md)  
 
-[Waldorf](ValorToVictory/crews/Waldorf.md)  
+[Kiley](crews/Kiley.md) [Photo](photo/Kiley-ph.md) 
 
-[Washburn](ValorToVictory/crews/Washburn.md)  
+[Kimmerle](crews/Kimmerle.md)  
 
-[Weaver](ValorToVictory/crews/Weaver.md) [Photo](ValorToVictory/photo/Weaver-ph.md) 
+[Kirklin](crews/Kirklin.md)  
 
-[Weeks](ValorToVictory/crews/Weeks.md) [Photo](ValorToVictory/photo/Weeks-ph.md) 
+[Knowlton](crews/Knowlton.md)  
 
-[Werth](ValorToVictory/crews/Werth.md)  
+[Kramschuster](crews/Kramschuster.md)  
 
-[Whited, R. H.](ValorToVictory/crews/WhitedRH.md) [Photo](ValorToVictory/photo/WhitedRH-ph.md) 
-
-[Whited, Richard L.](ValorToVictory/crews/WhitedRL.md)  
-
-[Whitlock](ValorToVictory/crews/Whitlock.md)  
-
-[Wilcox](ValorToVictory/crews/Wilcox.md)  
-
-[Williams](ValorToVictory/crews/Williams.md)  
-
-[Windinger](ValorToVictory/crews/Windinger.md)  
-
-[Winsor](ValorToVictory/crews/Winsor.md)  
-
-[Wright, N. E.](ValorToVictory/crews/WrightNE.md) [Photo](ValorToVictory/photo/WrightNE-ph.md) 
-
-[Wright, R. H.](ValorToVictory/crews/WrightRH.md)  
+[Kyser](crews/Kyser.md)  
 
  
 
-[Young](ValorToVictory/crews/Young.md)  
+[Landry](crews/Landry.md)  
+
+[Lankford](crews/Lankford.md)  
+
+[Laskin](crews/Laskin.md)  
+
+[Latz](crews/Latz.md)  
+
+[LeBailly](crews/LeBailly.md)  
+
+[Lerch](crews/Lerch.md)  
+
+[Lewis, W.](crews/LewisW.md) [Photo](photo/LewisW-ph.md) 
+
+[Lewis #2](crews/Lewis2.md)  
+
+[Lindstrom](crews/Lindstrom.md) [Photo](photo/Lindstrom-ph.md) 
+
+[Little](crews/Little.md)  
+
+[Livingston](crews/Livingston.md)  
+
+[Lundeen](crews/Lundeen.md) [Photo](photo/Lundeen-ph.md)  
 
  
 
-[Zarfoss](ValorToVictory/crews/Zarfoss.md)  
+[Mackey](crews/Mackey.md) [Photo](photo/Mackey-ph.md) 
+
+[MacTaggart](crews/MacTaggart.md)  
+
+[Manlove](crews/Manlove.md)  
+
+[Mann](crews/Mann.md)  
+
+[Marks](crews/Marks.md)  
+
+[Marsden](crews/Marsden.md)  
+
+[Martin, R.](crews/MartinR.md) [Photo](photo/MartinR-ph.md) 
+
+[Martin, S.](crews/MartinS.md) [Photo](photo/MartinS-ph.md) 
+
+[Mason](crews/Mason.md)  
+
+[Mawer](crews/Mawer.md)  
+
+[McAllister](crews/McAllister.md)  
+
+[McCage](crews/McCage.md)  
+
+ [McCutchan, Don](crews/McCutchanDon.md) [Photo](photo/McCutchanDon-ph.md) 
+
+[McCutchan, Hugh](crews/McCutchanHugh.md)  [Photo](photo/McCutchanHugh-ph.md) 
+
+[McDannold](crews/McDannold.md)  
+
+[McDermott](crews/McDermott.md)  
+
+[McFarland](crews/McFarland.md)  
+
+[McGee](crews/McGee.md)  
+
+[McLean](crews/McLean.md) [Photo](photo/McLean-ph.md) 
+
+[McNulty](crews/McNulty.md)  
+
+[McWilliams](crews/McWilliams.md)  
+
+[Mehling](crews/Mehling.md)  
+
+[Meyer](crews/Meyer.md)  
+
+[Moore](crews/Moore.md)  
+
+[Mote](crews/Mote.md)  
+
+[Mowers](crews/Mowers.md)  
+
+[Mueller, J. P.](crews/MuellerJP.md)  
+
+[Mueller, P. F.](crews/MuellerPF.md)  
+
+[Mullin](crews/Mullin.md)  
+
+[Murphy](crews/Murphy.md)  
+
+[Myers](crews/Myers.md)  
+
+ 
+
+[Nash](crews/Nash.md)  
+
+[Nass](crews/Nass.md)  
+
+[Netzler](crews/Netzler.md)  
+
+[Nigg](crews/Nigg.md)  
+
+[Notman](crews/Notman.md) [Photos](photo/Notman-ph.md) 
+
+[Novicki](crews/Novicki.md)  
+
+ 
+
+[Oakley](crews/Oakley.md)  
+
+[O'Grady](crews/OGrady.md) [Photo](photo/OGrady-ph.md)  
+
+ 
+
+[Palmer](crews/Palmer.md) [Photo](photo/Palmer-ph.md) 
+
+[Parkhurst](crews/Parkhurst.md) [Photo](photo/Parkhurst-ph.md) 
+
+[Parrish](crews/Parrish.md)  
+
+[Parsons](crews/Parsons.md)  
+
+[Paulnock](crews/Paulnock.md)  [Photo](photo/Paulnock-ph.md)  
+
+[Pavlicek](crews/Pavlicek.md) [Photo](photo/Pavlicek-ph.md) 
+
+[Pedigo](crews/Pedigo.md) [Photo](photo/Pedigo-ph.md) 
+
+[Peede](crews/Peede.md)  
+
+[Pelszynski](crews/Pelszynski.md)  
+
+[Perry](crews/Perry.md) [Photos](photo/Perry-ph.md) 
+
+[Peterson](crews/Peterson.md) [Photo](photo/Peterson-ph.md) 
+
+[Pierre](crews/Pierre.md)  
+
+ 
+
+[Rainey](crews/Rainey.md)  
+
+[Ralls](crews/Ralls.md) [Photo](photo/Ralls-ph.md) 
+
+[Ratcliff](crews/Ratcliff.md)  
+
+[Raver](crews/Raver.md)  
+
+[Rawson](crews/Rawson.md)  
+
+[Ray](crews/Ray.md)  [Photo](photo/Ray-ph.md)  
+
+[Raymond](crews/Raymond.md) [Photo](photo/Raymond-ph.md) 
+
+[Reid](crews/Reid.md)  
+
+[Richardsen](crews/Richardsen.md)  
+
+[Richardson, L. S.](crews/RichardsonLS.md)  
+
+[Richardson, Z. C.](crews/RichardsonZC.md)  
+
+[Richart](crews/Richart.md)  
+
+[Rider](crews/Rider.md)  
+
+[Roscher](crews/Roscher.md)  
+
+[Runyan](crews/Runyan.md) [Photo](photo/Runyan-ph.md) 
+
+ 
+
+[Sain](crews/Sain.md)  
+
+[Salveson](crews/Salveson.md)  
+
+[Scharmen](crews/Scharmen.md)  
+
+[Schaus](crews/Schaus.md) [Photo](photo/Schaus-ph.md) 
+
+[Schell](crews/Schell.md) [Photo](photo/Schell-ph.md) 
+
+[Scherkenbach](crews/Scherkenbach.md) [Photo](photo/Scherkenbach-ph.md) 
+
+[Schifferer](crews/Schifferer.md)  
+
+[Scholttlekord](crews/Scholttlekord.md)  
+
+[Schroeder](crews/Schroeder.md) [Photo](photo/Schroeder-ph.md) 
+
+[Schwartz #1](crews/Schwartz1.md)  
+
+[Schwartz, R. H.](crews/SchwartzRH.md) [Photo](photo/SchwartzRH-ph.md) 
+
+[Sharp](crews/Sharp.md)  
+
+[Sheesley](crews/Sheesley.md)  
+
+[Sheridan](crews/Sheridan.md) [Photo](photo/Sheridan-ph.md) 
+
+[Sherman](crews/Sherman.md) [Photo](photo/Sherman-ph.md) 
+
+[Simpson](crews/Simpson.md) [Photo](photo/Simpson-ph.md) 
+
+[Simson](crews/Simson.md)  
+
+[Smith #1](crews/Smith1.md)  
+
+[Smith, G.](crews/SmithG.md)  
+
+[Smith, J. C.](crews/SmithJC.md)  [Photo](photo/SmithJC-ph.md) 
+
+[Smith, O. E.](crews/SmithOE.md)  
+
+[Spiegal](crews/Spiegal.md)  
+
+[Springer](crews/Springer.md)  
+
+[Sproul](crews/Sproul.md) [Photo](photo/Sproul-ph.md) 
+
+[Steffen](crews/Steffen.md)  
+
+[Stemen](crews/Stemen.md) [Photo](photo/Stemen-ph.md) 
+
+[Stewart #1](crews/Stewart1.md)  
+
+[Stewart #2](crews/Stewart2.md)  
+
+[Stuermann](crews/Stuermann.md)  
+
+[Swenson](crews/Swenson.md) [Photo](photo/Swenson-ph.md) 
+
+[Sykes](crews/Sykes.md)  
+
+ 
+
+[Talbott](crews/Talbott.md)  [Photo](photo/Talbott-ph.md)  
+
+[Tavasti](crews/Tavasti.md)  
+
+[Tennent](crews/Tennent.md)  
+
+[Terry](crews/Terry.md)  
+
+[Thaete](crews/Thaete.md) [Photo](photo/Thaete-ph.md) 
+
+[Thompson](crews/Thompson.md)  
+
+[Thonander](crews/Thonander.md)  
+
+[Thrun](crews/Thrun.md)  
+
+[Tigges](crews/Tigges.md)  
+
+[Timblin](crews/Timblin.md) [Photo](photo/Timblin-ph.md) 
+
+[Tuttle](crews/Tuttle.md) [Photo](photo/Tuttle-ph.md) 
+
+[Tyson](crews/Tyson.md) [Photo](photo/Tyson-ph.md) 
+
+ 
+
+[Vande Guchte](crews/VandeGuchte.md)  
+
+[Vick](crews/Vick.md)  
+
+ 
+
+[Waarvick](crews/Waarvick.md)  
+
+[Waldorf](crews/Waldorf.md)  
+
+[Washburn](crews/Washburn.md)  
+
+[Weaver](crews/Weaver.md) [Photo](photo/Weaver-ph.md) 
+
+[Weeks](crews/Weeks.md) [Photo](photo/Weeks-ph.md) 
+
+[Werth](crews/Werth.md)  
+
+[Whited, R. H.](crews/WhitedRH.md) [Photo](photo/WhitedRH-ph.md) 
+
+[Whited, Richard L.](crews/WhitedRL.md)  
+
+[Whitlock](crews/Whitlock.md)  
+
+[Wilcox](crews/Wilcox.md)  
+
+[Williams](crews/Williams.md)  
+
+[Windinger](crews/Windinger.md)  
+
+[Winsor](crews/Winsor.md)  
+
+[Wright, N. E.](crews/WrightNE.md) [Photo](photo/WrightNE-ph.md) 
+
+[Wright, R. H.](crews/WrightRH.md)  
+
+ 
+
+[Young](crews/Young.md)  
+
+ 
+
+[Zarfoss](crews/Zarfoss.md)  
 
  
 

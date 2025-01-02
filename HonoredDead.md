@@ -962,7 +962,7 @@ DOD     NAME (last first)      RANK    ORG     Army Serial #  CITY, STATE
 ```
 
 [BACK
-TO MAIN PAGE](https://members.tripod.com/VALORtoVICTORY/index.html)
+TO MAIN PAGE](https://members.tripod.com/index.html)
 
 
 

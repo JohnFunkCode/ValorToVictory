@@ -23,8 +23,8 @@ Photo: 34BG Assoc., MM096.
 The identity of the men would probably help identify the plane. Any help out there?  
   
 
-[BACK TO B-24 INDEX PAGE](ValorToVictory/000b24s.md)  
+[BACK TO B-24 INDEX PAGE](000b24s.md)  
 
-[BACK TO MAIN PAGE](ValorToVictory/index.html)
+[BACK TO MAIN PAGE](index.html)
 
 

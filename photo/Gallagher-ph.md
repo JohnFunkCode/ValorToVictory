@@ -22,10 +22,10 @@ Perhaps not in order: Walter Fleming, Robert Filip, Anthony Ryerson, Albert Gerv
 
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](ValorToVictory/crews/Gallagher.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](crews/Gallagher.md)  
 
-[BACK TO CREW INDEX PAGE](ValorToVictory/000crews.md)  
+[BACK TO CREW INDEX PAGE](000crews.md)  
 
-[BACK TO MAIN PAGE](ValorToVictory/index.html)
+[BACK TO MAIN PAGE](index.html)
 
 

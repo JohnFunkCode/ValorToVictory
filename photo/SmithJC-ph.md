@@ -23,10 +23,10 @@ Standing (l-r): J. Charles Smith, Jim Troup, Bobb Pacholski, Clayton Mink, and D
 Kneeling (l-r): Herbert Hall, Ed Hiltner, Ben Workman, and Vic Lupei.  
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](ValorToVictory/crews/SmithJC.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](crews/SmithJC.md)  
 
-[BACK TO CREW INDEX PAGE](ValorToVictory/000crews.md)  
+[BACK TO CREW INDEX PAGE](000crews.md)  
 
-[BACK TO MAIN PAGE](ValorToVictory/index.html)
+[BACK TO MAIN PAGE](index.html)
 
 

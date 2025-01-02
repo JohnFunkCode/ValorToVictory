@@ -24,10 +24,10 @@ Front row (l-r): Weldon K. Burns (E), Robert Willoughby (R), and Frederick S. Wh
   
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](ValorToVictory/crews/HarrisCW.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](crews/HarrisCW.md)  
 
-[BACK TO CREW INDEX PAGE](ValorToVictory/000crews.md)  
+[BACK TO CREW INDEX PAGE](000crews.md)  
 
-[BACK TO MAIN PAGE](ValorToVictory/index.html)
+[BACK TO MAIN PAGE](index.html)
 
 

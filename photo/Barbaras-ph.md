@@ -26,10 +26,10 @@ Eisenberg is not pictured, because he was still in the hospital with the bloody 
  Eisenberg had been WIA in Fancy Nancy on the 25 February 1945 mission.  
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](ValorToVictory/crews/Barbaras.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](crews/Barbaras.md)  
 
-[BACK TO CREW INDEX PAGE](ValorToVictory/000crews.md)  
+[BACK TO CREW INDEX PAGE](000crews.md)  
 
-[BACK TO MAIN PAGE](ValorToVictory/index.html)
+[BACK TO MAIN PAGE](index.html)
 
 

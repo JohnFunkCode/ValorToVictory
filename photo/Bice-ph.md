@@ -30,10 +30,10 @@ Back row (l-r): Carroll Forister, Ernie Woelfel, Jack Blackham, and Len Bialas
 Front row (l-r): Bob Bice, Ken Humphreys, and Francis Rowley.  
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](ValorToVictory/crews/Bice.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](crews/Bice.md)  
 
-[BACK TO CREW INDEX PAGE](ValorToVictory/000crews.md)  
+[BACK TO CREW INDEX PAGE](000crews.md)  
 
-[BACK TO MAIN PAGE](ValorToVictory/index.html)
+[BACK TO MAIN PAGE](index.html)
 
 

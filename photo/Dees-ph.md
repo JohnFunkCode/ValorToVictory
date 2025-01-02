@@ -26,10 +26,10 @@ Kneeling L-R: Vince Hosack, Robert Dees, Robert Aldrich and Steve Walch.
 
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](ValorToVictory/crews/Dees.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](crews/Dees.md)  
 
-[BACK TO CREW INDEX PAGE](ValorToVictory/000crews.md)  
+[BACK TO CREW INDEX PAGE](000crews.md)  
 
-[BACK TO MAIN PAGE](ValorToVictory/index.html)
+[BACK TO MAIN PAGE](index.html)
 
 
