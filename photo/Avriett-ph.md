@@ -1,0 +1,36 @@
+
+Avriett Crew Photos
+
+
+
+
+
+
+ 
+
+
+
+
+Avriett Crew  
+  
+
+![](Avriett.jpg)  
+
+Photo: 34BG Assoc., MM063  
+
+The Giles crew at Blythe with their old Lincoln.  
+
+Top: Fred Scheer.  
+
+Standing L-R: Jim Freidel, Ken Lewis, John Soler, and Gene Holmes.  
+
+Kneeling L-R: Ray Kaiser and Giles Avriett.  
+  
+
+[BACK TO THIS CREW'S COMBAT RECORD](ValorToVictory/crews/Avriett.md)  
+
+[BACK TO CREW INDEX PAGE](ValorToVictory/000crews.md)  
+
+[BACK TO MAIN PAGE](ValorToVictory/index.html)
+
+
