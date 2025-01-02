@@ -23,10 +23,10 @@ Standing (l-r): T. H. Wentz, John Hohnstreiter, Joe Ray, R. W. Dodson, and Rober
 Kneeling (l-r): C. L. Vinge, Steve Jambor, R. E. Grzeskowiak, and C. A. Johnson.  
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](crews/Ray.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](../crews/Ray.md)  
 
-[BACK TO CREW INDEX PAGE](000crews.md)  
+[BACK TO CREW INDEX PAGE](../000crews.md)  
 
-[BACK TO MAIN PAGE](index.html)
+[BACK TO MAIN PAGE](../index.md)
 
 

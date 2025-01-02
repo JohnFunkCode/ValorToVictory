@@ -27,10 +27,10 @@ Kneeling L-R: Arthur Mode (R), Byrd Guinn (TG), Don McCutchan (P) and James Stur
 Bret Gustafson, son of Paul Gustafson, has put together an excellent web site dedicated to this crew. [SEE IT HERE.](http://staff.jccc.net/bgustaf/34th_Bomb/index.md)   
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](crews/McCutchanDon.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](../crews/McCutchanDon.md)  
 
-[BACK TO CREW INDEX PAGE](000crews.md)  
+[BACK TO CREW INDEX PAGE](../000crews.md)  
 
-[BACK TO MAIN PAGE](index.html)
+[BACK TO MAIN PAGE](../index.md)
 
 

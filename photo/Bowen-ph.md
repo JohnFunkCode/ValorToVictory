@@ -30,10 +30,10 @@ Not pictured: Harold O. Madion.
 Another photo of the Bowen Crew with Themla Jane.  
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](crews/Bowen.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](../crews/Bowen.md)  
 
-[BACK TO CREW INDEX PAGE](000crews.md)  
+[BACK TO CREW INDEX PAGE](../000crews.md)  
 
-[BACK TO MAIN PAGE](index.html)
+[BACK TO MAIN PAGE](../index.md)
 
 

@@ -25,10 +25,10 @@ Standing L-R: Schroeder (TG), unknown, Inman (CP), Adams (E), Hammersley (P), Mc
 Kneeling L-R: Stivender (R), Funk (Photographer), Small (BG) and Thurner (WG).  
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](crews/Hammersley.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](../crews/Hammersley.md)  
 
-[BACK TO CREW INDEX PAGE](000crews.md)  
+[BACK TO CREW INDEX PAGE](../000crews.md)  
 
-[BACK TO MAIN PAGE](index.html)
+[BACK TO MAIN PAGE](../index.md)
 
 

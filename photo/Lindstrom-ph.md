@@ -25,10 +25,10 @@ Standing (l-r): William Hammil (CP), Bennie Crawford (TG), Gordon Breeding (AG),
 Kneeling (l-r): Clarence Squires (asst. Crew Chief), Walter Aturdivan (R), James Harkless (Crew Chief), Truman Wingo (G), and Harold Witham (E).  
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](crews/Lindstrom.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](../crews/Lindstrom.md)  
 
-[BACK TO CREW INDEX PAGE](000crews.md)  
+[BACK TO CREW INDEX PAGE](../000crews.md)  
 
-[BACK TO MAIN PAGE](index.html)
+[BACK TO MAIN PAGE](../index.md)
 
 

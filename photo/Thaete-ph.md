@@ -25,10 +25,10 @@ Standing L-R: Del Bainco, Sanders, Dulaney, Kardowsky, Olmstead and Joubert.
 Kneeling L-R: Guertin, Linden and Thaete.  
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](crews/Thaete.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](../crews/Thaete.md)  
 
-[BACK TO CREW INDEX PAGE](000crews.md)  
+[BACK TO CREW INDEX PAGE](../000crews.md)  
 
-[BACK TO MAIN PAGE](index.html)
+[BACK TO MAIN PAGE](../index.md)
 
 

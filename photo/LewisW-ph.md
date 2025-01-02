@@ -23,10 +23,10 @@ Standing L-R: Francis Jackovich (B), William Lewis (P), George Gillespie (N), He
 Kneeling L-R: Ed Bynum (TG), Robert J. McBlaine (E), Gerald Pilcher (WG), Jack Camden (NG) and John J. Stoltz (R).  
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](crews/.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](../crews/.md)  
 
-[BACK TO CREW INDEX PAGE](000crews.md)  
+[BACK TO CREW INDEX PAGE](../000crews.md)  
 
-[BACK TO MAIN PAGE](index.html)
+[BACK TO MAIN PAGE](../index.md)
 
 

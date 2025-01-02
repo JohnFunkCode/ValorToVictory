@@ -32,10 +32,10 @@ Standing L-R: John Boyson, Angelon DiMaure, Alden Cockman, Roscoe Conklin, Willi
 Kneeling L-R: Stephen Nelson, John Notman, Henry Uscinowicz, Rogers Walcott.  
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](crews/Notman.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](../crews/Notman.md)  
 
-[BACK TO CREW INDEX PAGE](000crews.md)  
+[BACK TO CREW INDEX PAGE](../000crews.md)  
 
-[BACK TO MAIN PAGE](index.html)
+[BACK TO MAIN PAGE](../index.md)
 
 

@@ -25,10 +25,10 @@ Standing (L-R): Waistman, O'Grady, Pochter and Gregorski.(one man on the end unn
 Kneeling (L-R): Strawder, Foresman, Koenig and Russell.  
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](crews/OGrady.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](../crews/OGrady.md)  
 
-[BACK TO CREW INDEX PAGE](000crews.md)  
+[BACK TO CREW INDEX PAGE](../000crews.md)  
 
-[BACK TO MAIN PAGE](index.html)
+[BACK TO MAIN PAGE](../index.md)
 
 

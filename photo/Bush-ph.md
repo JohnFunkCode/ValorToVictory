@@ -26,10 +26,10 @@ Only these two men are identified at present.
 
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](crews/Bush.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](../crews/Bush.md)  
 
-[BACK TO CREW INDEX PAGE](000crews.md)  
+[BACK TO CREW INDEX PAGE](../000crews.md)  
 
-[BACK TO MAIN PAGE](index.html)
+[BACK TO MAIN PAGE](../index.md)
 
 

@@ -36,10 +36,10 @@ Standing L \- R: Walter O. Verneuille (CP), Charles B. Pavlicek (P), Herbert W. 
 Kneeling L \- R: Willis W. Griffis (E), John H. Crouch (R), Robert L. Hendricks (G), McDonald D. Chapman (G), Harry J. Crawford (G).  
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](crews/Pavlicek.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](../crews/Pavlicek.md)  
 
-[BACK TO CREW INDEX PAGE](000crews.md)  
+[BACK TO CREW INDEX PAGE](../000crews.md)  
 
-[BACK TO MAIN PAGE](index.html)
+[BACK TO MAIN PAGE](../index.md)
 
 

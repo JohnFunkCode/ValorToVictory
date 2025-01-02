@@ -23,10 +23,10 @@ L-R: George Johnson, Daniel Stringham, William Blackman, Leonard Lapinsky,
   
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](crews/Hardison.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](../crews/Hardison.md)  
 
-[BACK TO CREW INDEX PAGE](000crews.md)  
+[BACK TO CREW INDEX PAGE](../000crews.md)  
 
-[BACK TO MAIN PAGE](index.html)
+[BACK TO MAIN PAGE](../index.md)
 
 

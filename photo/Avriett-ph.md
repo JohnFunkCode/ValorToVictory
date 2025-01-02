@@ -27,10 +27,10 @@ Standing L-R: Jim Freidel, Ken Lewis, John Soler, and Gene Holmes.
 Kneeling L-R: Ray Kaiser and Giles Avriett.  
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](crews/Avriett.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](../crews/Avriett.md)  
 
-[BACK TO CREW INDEX PAGE](000crews.md)  
+[BACK TO CREW INDEX PAGE](../000crews.md)  
 
-[BACK TO MAIN PAGE](index.html)
+[BACK TO MAIN PAGE](../index.md)
 
 

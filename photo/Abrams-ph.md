@@ -30,12 +30,12 @@ ditched in the English Channel on April 5, 1945 with the Mehling crew.
   
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](crews/Abrams.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](../crews/Abrams.md)  
 
-[TO THIS PLANE'S COMBAT RECORD](b17s/44-8283.md)  
+[TO THIS PLANE'S COMBAT RECORD](../b17s/44-8283.md)  
 
-[BACK TO CREW INDEX PAGE](000crews.md)  
+[BACK TO CREW INDEX PAGE](../000crews.md)  
 
-[BACK TO MAIN PAGE](index.html)
+[BACK TO MAIN PAGE](../index.md)
 
 

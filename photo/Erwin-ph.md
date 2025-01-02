@@ -22,10 +22,10 @@ Kneeling (l-r): J. O'Leary, H. Lamar, L. Babcock, H. Blagrave, and L. Warner.
   
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](crews/Erwin.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](../crews/Erwin.md)  
 
-[BACK TO CREW INDEX PAGE](000crews.md)  
+[BACK TO CREW INDEX PAGE](../000crews.md)  
 
-[BACK TO MAIN PAGE](index.html)
+[BACK TO MAIN PAGE](../index.md)
 
 

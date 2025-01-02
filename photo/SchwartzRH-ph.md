@@ -25,10 +25,10 @@ Standing L-R: Robert H. Schwartz, Frederick Bergland, Robert Brofft and Marvin L
 Kneeling L-R: Bryant Grimes, Henry Butler, Michael Jacobbauski, Robert Peterson and Robert Devoe.  
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](crews/SchwartzRH.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](../crews/SchwartzRH.md)  
 
-[BACK TO CREW INDEX PAGE](000crews.md)  
+[BACK TO CREW INDEX PAGE](../000crews.md)  
 
-[BACK TO MAIN PAGE](index.html)
+[BACK TO MAIN PAGE](../index.md)
 
 

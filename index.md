@@ -141,7 +141,7 @@ THE MEN
 
 [Crew Chiefs and Ground Crew](CrewChiefs.md)NEW!!! Help Wanted!  
 
-[Combat crew records](000crews.md)  
+[Combat crew records](../000crews.md)  
 
   
   
@@ -179,9 +179,9 @@ THE MISSIONS
 
 THE PLANES  
 
-[B-24 Individual Combat Records](000b24s.md)  
+[B-24 Individual Combat Records](../000b24s.md)  
 
-[B-17 Individual Combat Records](000b17s.md)  
+[B-17 Individual Combat Records](../000b17s.md)  
 
   
   

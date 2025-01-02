@@ -36,8 +36,8 @@ Kneeling L-R: Lucas, Byers, Peacock, Block and Scott.
 
   
 
-[BACK TO B-24 INDEX PAGE](000b24s.md)  
+[BACK TO B-24 INDEX PAGE](../000b24s.md)  
 
-[BACK TO MAIN PAGE](index.html)
+[BACK TO MAIN PAGE](../index.md)
 
 

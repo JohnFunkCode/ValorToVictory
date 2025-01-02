@@ -25,10 +25,10 @@ Standing L-R: Mullen, Schwartz, Lynn, Runyan, Mankin.
 Kneeling L-R: Lucas, Byers, Peacock,, Block, Scott  
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](crews/Runyan.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](../crews/Runyan.md)  
 
-[BACK TO CREW INDEX PAGE](000crews.md)  
+[BACK TO CREW INDEX PAGE](../000crews.md)  
 
-[BACK TO MAIN PAGE](index.html)
+[BACK TO MAIN PAGE](../index.md)
 
 

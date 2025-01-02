@@ -22,8 +22,8 @@ B-24J, former 493rd BG, Serial number unknown
 Who is this? If it is the Crew Chief, his identity could solve the plane's identity.  
   
 
-[BACK TO B-24 INDEX PAGE](000b24s.md)  
+[BACK TO B-24 INDEX PAGE](../000b24s.md)  
 
-[BACK TO MAIN PAGE](index.html)
+[BACK TO MAIN PAGE](../index.md)
 
 

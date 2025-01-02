@@ -32,10 +32,10 @@ Standing L-R: (Nav unk), Hobart McNeil (B), L. S. Robinson (CP), unk., T. D. Cou
 Kneeling: James Stewart, Michael Zapach, James Jordan, Morris Rosenweig and Robert Burnett.  
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](crews/Coupland.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](../crews/Coupland.md)  
 
-[BACK TO CREW INDEX PAGE](000crews.md)  
+[BACK TO CREW INDEX PAGE](../000crews.md)  
 
-[BACK TO MAIN PAGE](index.html)
+[BACK TO MAIN PAGE](../index.md)
 
 

@@ -23,10 +23,10 @@ Standing L-R: Abe Firestone, James Sain, Hugh Goerner, Don Stuffelbeam and Tony 
 Kneeling L-R: Lloyd Shilkett, Edward Durbin, Floyd Richmond and Harry Hoffman.  
   
 
-[BACK TO THIS CREW'S COMBAT RECORD](crews/Sain.md)  
+[BACK TO THIS CREW'S COMBAT RECORD](../crews/Sain.md)  
 
-[BACK TO CREW INDEX PAGE](000crews.md)  
+[BACK TO CREW INDEX PAGE](../000crews.md)  
 
-[BACK TO MAIN PAGE](index.html)
+[BACK TO MAIN PAGE](../index.md)
 
 
