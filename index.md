@@ -136,7 +136,7 @@ THE MEN
 
 [Crew Chiefs and Ground Crew](CrewChiefs.md)NEW!!! Help Wanted!  
 
-[Combat crew records](../000crews.md)  
+[Combat crew records](000crews.md)  
 
   
   
