@@ -119,11 +119,6 @@ I would also like to have information on the ground equipment used by the 34th B
 Send replies to me, Gary Ferrell at ferrellumm@netscape.net.
   
   
-  
-
- [Search this site](http://search.freefind.com/find.html?id=20300229) powered by [FreeFind](http://www.freefind.com) |
-  
-  
 
 THE MEN  
 
@@ -179,9 +174,9 @@ THE MISSIONS
 
 THE PLANES  
 
-[B-24 Individual Combat Records](../000b24s.md)  
+[B-24 Individual Combat Records](000b24s.md)  
 
-[B-17 Individual Combat Records](../000b17s.md)  
+[B-17 Individual Combat Records](000b17s.md)  
 
   
   
