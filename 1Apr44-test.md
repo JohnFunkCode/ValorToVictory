@@ -74,15 +74,6 @@ Inc #2,to Par 1 SO 92,Hq 358th CCTS,BAAF,Blythe,Calif.dd
 |Pvt |345 | George L Bruce  |17091186 |
 |S Sgt |750 | Ralph E Brune  |16018568 |
 |Sgt |901 | William J Brunette  |18061346 |
-
-
-\- 1 \-
-
-
-
-Inc #2,to Par 1 SO 92,Hq 358th CCTS,BAAF,Blythe,Calif.dd
-1April 1944 cont
-
 |Pfc |901 | Ronald H Bullock  |32489218 |
 |Sgt |405 | Charles A Butte  |16043747 |
 |Pfc |747 | George T Butusov  |36725590 |
@@ -134,11 +125,6 @@ Inc #2,to Par 1 SO 92,Hq 358th CCTS,BAAF,Blythe,Calif.dd
 |Cpl |620 | James (NMI) Gatewood  |38166062 |
 |Cpl |932 | Joseph E Gibbons  |32387654 |
 |Sgt |747 | Hugh W Gillispie  |13117123 |
-
-
-Inc #2,to Par 1 SO 92,Hq 358th CCTS,BAAF,Blythe,Calif.dd
-1April 1944 cont
-
 |Cpl |405 | Jack D Gist  |38415362 |
 |Pvt |754 | Thomas J Glenn  |39905684 |
 |Cpl |611 | John J Golden  |32382522 |
@@ -192,11 +178,6 @@ Inc #2,to Par 1 SO 92,Hq 358th CCTS,BAAF,Blythe,Calif.dd
 |Sgt |060 | George W Lentner  |37271541 |
 |Pfc |060 | Robert M Lewis  |36458677 |
 |Sgt |911 | Charles W Long  |11102831 |
-
-
-Inc #2,to Par 1 SO 92,Hq 358th CCTS,BAAF,Blythe,Calif.dd
-1April 1944 cont
-
 |Sgt |686 | Ernest (nmi) Long  |33310455 |
 |Pfc |747 | Bernard J Lontine  |31267674 |
 |Cpl |683 | Francis M Luxen  |17157766 |
@@ -231,7 +212,7 @@ Inc #2,to Par 1 SO 92,Hq 358th CCTS,BAAF,Blythe,Calif.dd
 |Pvt |055 | Leo K Oberweather  |37527169 |
 |Pvt |405 | Douglass G O'Callaghan  |32802438 |
 |Sgt |747 | Charles J O'Malley  |31178934 |
-|Pfc |611 | William F Oneschak 13171782 (middle initial corrected by  |family) |
+|Pfc |611 | William F Oneschak (middle initial corrected by family) | 13171782|
 |Cpl |345 | Eddie E Ortego  |18171441 |
 |Cpl |861 | John M Owens  |32580004 |
 |Pfc |060 | Alexander F Paczierr 35064  |17 |
@@ -247,11 +228,6 @@ Inc #2,to Par 1 SO 92,Hq 358th CCTS,BAAF,Blythe,Calif.dd
 |M Sgt |543 | Ralph F Pounders  |14021578 |
 |Sgt |631 | Pasquale P Pronto  |11103472 |
 |S Sgt |824 | Frank Ramshak  |20646027 |
-
-
-Inc #2,to Par 1 SO 92,Hq 358th CCTS,BAAF,Blythe,Calif.dd
-1April 1944 cont
-
 |Sgt |750 | Charles J Reilly  |31170472 |
 |Sgt |014 | William F Riebauw  |35539095 |
 |Sgt |911 | John F Ritter  |32365684 |
@@ -304,11 +280,6 @@ Inc #2,to Par 1 SO 92,Hq 358th CCTS,BAAF,Blythe,Calif.dd
 |Pvt |911 | Burton C Vanasdale  |35622421 |
 |Cpl |813 | Charles J Varble  |37083997 |
 |Sgt |747 | Edwin S Varga  |35513528 |
-
-
-Inc #2,to Par 1 SO 92,Hq 358th CCTS,BAAF,Blythe,Calif.dd
-1April 1944 cont
-
 |Cpl |911 | Ray V Varnell  |37527100 |
 |Cpl |747 | Derrick J Venne  |12137606 |
 |Sgt |750 | Sylvester N Vidulich  |32466993 |
@@ -358,7 +329,6 @@ April 1944
 7TH BOMBARDMENT SQUADRON (H)
 
 |RANK | MOS | NAME | ASN|
-
 |CAPT |3160 | WILLIAM C. ALSTON  |O-485807 |
 |CAPT |4832 | WILLIAM C. COLE, JR  |O-434332 |
 |1ST LT |2110 | THOMAS H. BLACK, JR  |O-682453 |
@@ -400,11 +370,6 @@ April 1944
 |S Sgt |747 | Roy E Shwilerr  |32490106 |
 |S Sgt |911 | Henry F Slade  |34331040 |
 |S Sgt |813 | Lawrence M Struck  |18082274 |
-
-
-Inc #3 to Par 1, SO#92, BAAF, Blythe, California, dd 1
-April 1944, cont'd
-
 |Sgt |060 | Burnice E Allen  |14133969 |
 |Sgt |686 | Manuel Alverez  |32431682 |
 |Sgt |747 | John C Bell  |13134561 |
@@ -451,11 +416,6 @@ April 1944, cont'd
 |Sgt |747 | Paul C Schommer  |17155754 |
 |Sgt |060 | Roy M Sheppard  |38105806 |
 |Sgt |747 | Bennie Simon  |32495370 |
-
-
-Inc #3 to Par 1, SO#92, BAAF, Blythe, California, dd 1
-April 1944, cont'd
-
 |Sgt |932 | Joseph A Skulkey  |35506722 |
 |Sgt |620 | Alden G Smith  |37278090 |
 |Sgt |747 | Leonard F Steelman  |32361853 |
@@ -503,11 +463,6 @@ April 1944, cont'd
 |Cpl |747 | Claude W May  |38197818 |
 |Cpl |911 | Robert L Mitchell  |36451309 |
 |Cpl |911 | John E Mooers  |33452236 |
-
-
-Inc #3 to Par 1, SO#92, BAAF, Blythe, California, dd 1
-April 1944, cont'd
-
 |Cpl |060 | Fred J Moran Jr  |14162050 |
 |Cpl |683 | Basil Mykytuk  |36587419 |
 |Cpl |754 | John J Nelson  |32705957 |
@@ -556,11 +511,6 @@ April 1944, cont'd
 |Pfc |807 | William O Brown  |15097793 |
 |Pfc |901 | Frank J Cadu  |33485879 |
 |Pfc |941 | Melvin Carlson  |39608946 |
-
-
-Inc #3 to Par 1, SO#92, BAAF, Blythe, California, dd 1
-April 1944, cont'd
-
 |Pfc |807 | Robert D Caldwell  |15126411 |
 |Pfc |901 | Glenn A Carlson  |16056785 |
 |Pfc |901 | Albert J Cassell  |35629430 |
@@ -605,11 +555,6 @@ April 1944, cont'd
 |Pfc |747 | Charlie Sakal  |33757396 |
 |Pfc |650 | Harold A Santos  |12136374 |
 |Pfc |932 | Harold W Schmidt 36  |28412 |
-
-
-Inc #3 to Par 1, SO#92, BAAF, Blythe, California, dd 1
-April 1944, cont'd
-
 |Pfc |747 | Kal N Schonthaler  |33432705 |
 |Pfc |747 | Richard L Shepard  |39696410 |
 |Pfc |747 | Lloyd J Simoneaux  |38059175 |
@@ -656,19 +601,16 @@ April 1944, cont'd
 |Pvt |345 | Floyd E Turner  |35658308 |
 |Pvt |555 | Harrison Van Sickle Jr  |38325148 |
 |Pvt |932 | Albert M Wagner  |33623685 |
-
-
-Inc #3 to Par 1, SO#92, BAAF, Blythe, California, dd 1
-April 1944, cont'd
-
 |Pvt |932 | Johnnie Gray  |38540953 |
 |Pvt |932 | Howard B Wilkins  |37346853 |
 |Pvt |237 | Harold W Williams  |33737930 |
 |Pvt |932 | Albert H Wolfe  |33497109 |
 |Pvt |911 | Paul P Vealey 13042833(sk Sta  |Hosp) |
 |Pvt |932 | Harold C Schmidt  |16155853 |
+
 OFFICERS, ENLISTED MEN ON TEMPORARY DUTY
 
+|RANK | MOS | NAME | ASN|
 |1ST LT |2161 | WILLIAM C BROPHY  |O-737346 |
 |Sgt |748 | Edward G Berry  |38450659 |
 |Sgt |748 | Ben O Buckley  |36297407 |
@@ -695,7 +637,6 @@ Calif. 1 April 44
 18TH BOMB SQ, 34TH BOMB GROUP (H)
 
 |RANK | MOS | NAME | ASN|
-
 |1ST LT |2110 | JOHN D MAYOR  |O-572547 |
 |CAPT |3160 | KERMIT W MYERS  |O-295881 |
 |CAPT |2161 | ROBERT M SIMPSON  |O-725214 |
@@ -745,11 +686,6 @@ Calif. 1 April 44
 |Sgt |901 | Edward P Breitschwerdt  |13104533 |
 |Sgt |911 | James F Brewer  |37124793 |
 |Sgt |901 | Charles J Brug  |15336803 |
-
-
-Inc 4, to Par 1, SO#92, Hq 358th CCTS, BAAF, Blythe,
-Calif. 1 April 44,
-
 |Sgt |747 | Lawrence F Burrmann  |36811990 |
 |Sgt |932 | Robert C Cahill  |32288543 |
 |Sgt |405 | Troy Carter  |38386040 |
@@ -800,11 +736,6 @@ Calif. 1 April 44,
 |Sgt |014 | Shirley G Trussell  |33537670 |
 |Sgt |911 | Lee Turnmire  |39318465 |
 |Sgt |650 | George G Valkosky Jr  |15330211 |
-
-
-Inc 4, to Par 1, SO#92, Hq 358th CCTS, BAAF, Blythe,
-Calif. 1 April 44,
-
 |Sgt |060 | Joseph P Weidner  |32230200 |
 |Sgt |748 | David S Wells  |38329064 |
 |Sgt |611 | Bernard Werner  |16170150 |
@@ -856,11 +787,6 @@ Calif. 1 April 44,
 |Cpl |239 | William R Lowell  |11095741 |
 |Cpl |755 | Henry J Maciaszek  |16144514 |
 |Cpl |620 | Roscoe McCracken  |33209049 |
-
-
-Inc 4, to Par 1, SO#92, Hq 358th CCTS, BAAF, Blythe,
-Calif. 1 April 44,
-
 |Cpl |747 | Herbert F Mitchell  |33296350 |
 |Cpl |911 | Buelard M Moore  |39573641 |
 |Cpl |687 | Everett L Morrison  |17100346 |
@@ -913,11 +839,6 @@ Calif. 1 April 44,
 |Pfc |405 | David H Hayes  |33630948 |
 |Pfc |405 | George S Hebert Jr  |39284971 |
 |Pfc |911 | Walter A Hendrix  |34406802 |
-
-
-Inc 4, to Par 1, SO#92, Hq 358th CCTS, BAAF, Blythe,
-Calif. 1 April 44,
-
 |Pfc |932 | Howard L Hennis  |36744455 |
 |Pfc |747 | William R Johnson  |33631300 |
 |Pfc |345 | Ernest B Jones  |34258468 |
@@ -970,11 +891,6 @@ Calif. 1 April 44,
 |Pvt |901 | James Campiene  |36660402 |
 |Pvt |807 | James J Carroll  |32929789 |
 |Pvt |747 | William I Dunkerley  |32569707 |
-
-
-Inc 4, to Par 1, SO#92, Hq 358th CCTS, BAAF, Blythe,
-Calif. 1 April 44,
-
 |Pvt |754 | Richard L Ellis  |39907355 |
 |Pvt |747 | George Filmer  |33436215 |
 |Pvt |754 | Robert L Gay  |36296407 |
@@ -1024,7 +940,6 @@ Calif, 1 April 1944
 391ST BOMB SQ, 34TH BOMB GROUP (H)
 
 |RANK | MOS | NAME | ASN|
-
 |CAPT |2110 | LEONARD J ARTELL  |O-566736 |
 |CAPT |1024 | RIBERT H RECHEY  |O-661964 |
 |CAPT |3160 | QUENTIN L WOOD  |O-1702400 |
@@ -1074,11 +989,6 @@ Calif, 1 April 1944
 |Sgt |747 | Stanley C Bochenek  |33375280 |
 |Sgt |747 | Joseph F Bonafed  |13131410 |
 |Sgt |705 | Clarence L Bradford  |33185259 |
-
-
-Inc 5, to Par 1, SO#92, Hq 358th CCTS, BAAF, Blythe,
-Calif, 1 April 1944
-
 |Sgt |405 | J T Bush  |18010696 |
 |Sgt |405 | Leon Campbell  |14182306 |
 |Sgt |911 | Arthur F Cannon  |32613048 |
@@ -1129,11 +1039,6 @@ Calif, 1 April 1944
 |Pfc |901 | Emil B Nash  |36449738 |
 |Pfc |901 | James R Oiler  |35544251 |
 |Pfc |901 | Robert E Paine  |38380250 |
-
-
-Inc 5, to Par 1, SO#92, Hq 358th CCTS, BAAF, Blythe,
-Calif, 1 April 1944
-
 |Sgt |750 | Michael Sass  |33018245 |
 |Sgt |932 | James W Schanefelt  |38106825 |
 |Sgt |060 | Charles F Schurk Jr  |39097070 |
@@ -1181,11 +1086,6 @@ Calif, 1 April 1944
 |Cpl |911 | Rheodore A Milkowart  |32331617 |
 |Cpl |911 | Charles D Morgan  |12062185 |
 |Cpl |683 | Jerome F Mumm  |32843114 |
-
-
-Inc 5, to Par 1, SO#92, Hq 358th CCTS, BAAF, Blythe,
-Calif, 1 April 1944
-
 |Cpl |901 | Wallace L Nichols  |37493899 |
 |Cpl |521 | Frank J Parodi  |39098499 |
 |Cpl |861 | Albert S Pawloski  |32580053 |
@@ -1234,11 +1134,6 @@ Calif, 1 April 1944
 |Pfc |256 | Clarence R Kieschnick  |38367718 |
 |Pfc |911 | Lawrence E Knot  |33723333 |
 |Pfc |861 | Charles L Krise  |33256119 |
-
-
-Inc 5, to Par 1, SO#92, Hq 358th CCTS, BAAF, Blythe,
-Calif, 1 April 1944
-
 |Pfc |678 | Charles W Patterson  |34403631 |
 |Pfc |941 | Emanuel W Peveroff  |14083432 |
 |Pfc |911 | Essel R Polley  |35579357 |
@@ -1285,11 +1180,6 @@ Calif, 1 April 1944
 |Pvt |932 | Ralph Martin Jr  |35769532 |
 |Pvt |901 | Walter J Mason  |35553780 |
 |Pvt |060 | Cipriano Mendez  |38457513 |
-
-
-Inc 5, to Par 1, SO#92, Hq 358th CCTS, BAAF, Blythe,
-Calif, 1 April 1944
-
 |Pvt |237 | Herbert M Mermelstein  |35233935 |
 |Pvt |807 | James L Metzlerh  |37705861 |
 |Pvt |405 | Martin A Millstone  |39575466 |
@@ -1321,11 +1211,6 @@ Calif, 1 April 1944
 |Pvt |631 | Willliam J Woolford  |19201050 |
 |Pvt |911 | Paul R Younghelm  |31303022 |
 |Pvt |650 | Donald M Ziegler  |13092109 |
-
-
-Inc 5, to Par 1, SO#92, Hq 358th CCTS, BAAF, Blythe,
-Calif, 1 April 1944
-
 |Pvt |237 | Herbert M Mermelstein  |35233935 |
 |Pvt |807 | James L  |Metzlerh |
 
