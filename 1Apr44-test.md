@@ -26,6 +26,7 @@ Inc #2,to Par 1 SO 92,Hq 358th CCTS,BAAF,Blythe,Calif.dd
 4TH BOMBARDMENT SQUADRON (H)
 
 |RANK | MOS | NAME | ASN|
+|-----|-----|------|----|
 |CAPT |2161 | CHARLES (NMI) COOK  |O-415441 |
 |1ST LT |2110 | JOHN D DULANY  |O-562897 |
 |CAPT |2120 | FRANK R FOUST  |O-913819 |
