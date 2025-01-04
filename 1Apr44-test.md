@@ -74,6 +74,8 @@ Inc #2,to Par 1 SO 92,Hq 358th CCTS,BAAF,Blythe,Calif.dd
 |Pvt |345 | George L Bruce  |17091186 |
 |S Sgt |750 | Ralph E Brune  |16018568 |
 |Sgt |901 | William J Brunette  |18061346 |
+
+
 \- 1 \-
 
 
