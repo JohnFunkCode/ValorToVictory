@@ -9,7 +9,7 @@
 
 
 
-VALOR TO VICTORY
+VALOR TO VICTORY 2025 - Modernized for Flexability!
 
 
 
@@ -25,33 +25,6 @@ VALOR TO VICTORY
 ![](B-24m.jpg)![](34BGpatch.jpg)![](B-17f.jpg)  
   
 
-THIS WEB SITE IS SPONSORED FOR THE MONTH OF SEPTEMBER 2004  
-
-In Memory of James M. Glass and In Honor of the Glass Crew by Donald L. Shee.  
-
-THE GLASS CREW  
-
-James M. Glass, Pilot (deceased)  
-
-Charles R. (Bob) Yockey, Co-Pilot  
-
-Herbert D. Roy, Navigator  
-
-Sherwood L. Simmons, Toggleer  
-
-Frederick P. Aldridge, Radio Operator  
-
-Charles A. Herget, Flight Engineer  
-
-Benjamin Zeldes, Ball Turret Gunner  
-
-Donald L. Shee, Waist Gunner  
-
-William C. Hetherington, Tail Gunner  
-
-Winnie Witch, Canine Mascot (deceased)  
-  
-  
 
 DEDICATION  
 
