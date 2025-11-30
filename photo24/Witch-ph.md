@@ -19,7 +19,7 @@ B-24J, former 493rd BG, Serial number unknown
 ![](Witch.jpg)  
   
 
-Who is this? If it is the Crew Chief, his identity could solve the plane's identity.  
+Engine Mechanic Sgt. Paul Teare 
   
 
 [BACK TO B-24 INDEX PAGE](../000b24s.md)  
