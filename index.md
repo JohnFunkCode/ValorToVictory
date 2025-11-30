@@ -179,14 +179,6 @@ THE PLANES
 [B-17 Individual Combat Records](000b17s.md)  
 
   
-  
-  
-
-[![](034thEliteBanner.gif)](http://b24bw.proboards33.com)
-  
-  
-  
-
 
 NOTICE: All articles and photographs on this site are copyright protected by the donor and the 34th Bomb Group Association. Use of these is expressely forbidden without written consent of the association historian.  
   
