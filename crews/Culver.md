@@ -997,23 +997,23 @@ Neverman (G)
 Mission #50 August 3, 1944 42-52752 L/E 391BS Culver ***unknown
 name***
 
-Culver (P)
+Culver, Douglas E.  (P)
 
-Ettlebrick (CP)
+Ettlebrick, Charles H. (CP)
 
-Gombert (N)
+Gombert, Dirk  (N)
 
-Hunter (B)
+Hunter, Harry F. (B)
 
-Nelson (R) (a write-in)
+Nelson (R) (a write-in) (T/SGT John W. Nelson S/N 37539297 Radio Operator - identified by John Funk 01-24-2026)
 
-Daniels (E)
+Daniels, Earl M. (E)
 
-Crawford (NG)
+Crawford, William F.  (NG)
 
-Morellino (TG)
+Morellino, Salvatore F. (TG)
 
-Neverman (G)
+Neverman, William B. (G)
 
 Mission #54 August 7, 1944 42-52752 L/E 391BS Culver ***unknown
 name***
